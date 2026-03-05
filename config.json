@@ -1,0 +1,16 @@
+{
+  "host": "10.128.184.141",
+  "port": 32013,
+  "username": "root",
+  "password": "StarRocks!@2025#.",
+  "database": "business",
+  "default_timestamp_column": {
+    "column": "recordTimestamp",
+    "type": "bigint"
+  },
+  "timestamp_columns": {},
+  "t0": "2025-12-18 14:30:00",
+  "old_table_suffix": "_1",
+  "new_table_suffix": "_2"
+}
+
